@@ -1,0 +1,16 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "RegistroClientes.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TFormRegistroClientes *FormRegistroClientes;
+//---------------------------------------------------------------------------
+__fastcall TFormRegistroClientes::TFormRegistroClientes(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------

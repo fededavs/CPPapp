@@ -1,0 +1,30 @@
+#include "nodos.h"
+
+Cliente::Cliente()
+{
+    siguiente = NULL;
+}
+
+Cliente::Cliente(Cliente &c)
+{
+	numero = c.numero;
+	genero = c.genero;
+	nombre = c.nombre;
+	apellido = c.apellido;
+	inicialMedia = c.inicialMedia;
+	direccion = c.direccion;
+	ciudad = c.ciudad;
+	estado = c.estado;
+	zipCode = c.zipCode;
+	email = c.email;
+	numeroTelefono = c.numeroTelefono;
+	cumpleaños = c.cumpleaños;
+    edad = c.edad;
+}
+
+Destino::Destino() : duracionDias(0), costoUSD(0.0f), plazas(0), siguiente(nullptr) {}
+
+Destino::Destino(Destino &d)
+	: nombrePaquete(d.nombrePaquete), destino(d.destino), duracionDias(d.duracionDias),
+	costoUSD(d.costoUSD), partida(d.partida), codigo(d.codigo), plazas(d.plazas),
+    siguiente(nullptr) {}

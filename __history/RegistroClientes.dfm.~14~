@@ -1,0 +1,266 @@
+object FormRegistroClientes: TFormRegistroClientes
+  Left = 0
+  Top = 0
+  Caption = 'Registro'
+  ClientHeight = 575
+  ClientWidth = 864
+  Color = clGradientActiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Label1: TLabel
+    Left = 104
+    Top = 68
+    Width = 47
+    Height = 15
+    Caption = 'Nombre:'
+  end
+  object Label2: TLabel
+    Left = 104
+    Top = 128
+    Width = 47
+    Height = 15
+    Caption = 'Apellido:'
+  end
+  object Label3: TLabel
+    Left = 104
+    Top = 188
+    Width = 41
+    Height = 15
+    Caption = 'Genero:'
+  end
+  object Label4: TLabel
+    Left = 104
+    Top = 250
+    Width = 118
+    Height = 15
+    Caption = 'Inicial de 2do nombre:'
+  end
+  object Label5: TLabel
+    Left = 104
+    Top = 311
+    Width = 53
+    Height = 15
+    Caption = 'Direccion:'
+  end
+  object Label6: TLabel
+    Left = 104
+    Top = 374
+    Width = 41
+    Height = 15
+    Caption = 'Ciudad:'
+  end
+  object Label7: TLabel
+    Left = 336
+    Top = 68
+    Width = 34
+    Height = 15
+    Caption = 'Label7'
+  end
+  object Label8: TLabel
+    Left = 336
+    Top = 128
+    Width = 34
+    Height = 15
+    Caption = 'Label8'
+  end
+  object Label9: TLabel
+    Left = 336
+    Top = 188
+    Width = 34
+    Height = 15
+    Caption = 'Label9'
+  end
+  object Label10: TLabel
+    Left = 336
+    Top = 250
+    Width = 40
+    Height = 15
+    Caption = 'Label10'
+  end
+  object Label11: TLabel
+    Left = 336
+    Top = 311
+    Width = 40
+    Height = 15
+    Caption = 'Label11'
+  end
+  object Label12: TLabel
+    Left = 336
+    Top = 374
+    Width = 40
+    Height = 15
+    Caption = 'Label12'
+  end
+  object Label13: TLabel
+    Left = 576
+    Top = 68
+    Width = 40
+    Height = 15
+    Caption = 'Label13'
+  end
+  object Label14: TLabel
+    Left = 576
+    Top = 128
+    Width = 40
+    Height = 15
+    Caption = 'Label14'
+  end
+  object Label15: TLabel
+    Left = 576
+    Top = 188
+    Width = 40
+    Height = 15
+    Caption = 'Label15'
+  end
+  object Label16: TLabel
+    Left = 576
+    Top = 250
+    Width = 40
+    Height = 15
+    Caption = 'Label16'
+  end
+  object Label17: TLabel
+    Left = 576
+    Top = 311
+    Width = 40
+    Height = 15
+    Caption = 'Label17'
+  end
+  object Label18: TLabel
+    Left = 576
+    Top = 374
+    Width = 40
+    Height = 15
+    Caption = 'Label18'
+  end
+  object Edit1: TEdit
+    Left = 104
+    Top = 89
+    Width = 153
+    Height = 25
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 104
+    Top = 149
+    Width = 153
+    Height = 25
+    TabOrder = 1
+  end
+  object Edit3: TEdit
+    Left = 104
+    Top = 209
+    Width = 153
+    Height = 25
+    TabOrder = 2
+  end
+  object Edit4: TEdit
+    Left = 104
+    Top = 271
+    Width = 153
+    Height = 25
+    TabOrder = 3
+  end
+  object Edit5: TEdit
+    Left = 104
+    Top = 332
+    Width = 153
+    Height = 25
+    TabOrder = 4
+  end
+  object Edit6: TEdit
+    Left = 104
+    Top = 395
+    Width = 153
+    Height = 25
+    TabOrder = 5
+  end
+  object Edit7: TEdit
+    Left = 336
+    Top = 89
+    Width = 153
+    Height = 25
+    TabOrder = 6
+  end
+  object Edit8: TEdit
+    Left = 336
+    Top = 149
+    Width = 153
+    Height = 25
+    TabOrder = 7
+  end
+  object Edit9: TEdit
+    Left = 336
+    Top = 209
+    Width = 153
+    Height = 25
+    TabOrder = 8
+  end
+  object Edit10: TEdit
+    Left = 336
+    Top = 271
+    Width = 153
+    Height = 25
+    TabOrder = 9
+  end
+  object Edit11: TEdit
+    Left = 336
+    Top = 332
+    Width = 153
+    Height = 25
+    TabOrder = 10
+  end
+  object Edit12: TEdit
+    Left = 336
+    Top = 395
+    Width = 153
+    Height = 25
+    TabOrder = 11
+  end
+  object Edit13: TEdit
+    Left = 576
+    Top = 89
+    Width = 153
+    Height = 25
+    TabOrder = 12
+  end
+  object Edit14: TEdit
+    Left = 576
+    Top = 149
+    Width = 153
+    Height = 25
+    TabOrder = 13
+  end
+  object Edit15: TEdit
+    Left = 576
+    Top = 209
+    Width = 153
+    Height = 25
+    TabOrder = 14
+  end
+  object Edit16: TEdit
+    Left = 576
+    Top = 271
+    Width = 153
+    Height = 25
+    TabOrder = 15
+  end
+  object Edit17: TEdit
+    Left = 576
+    Top = 332
+    Width = 153
+    Height = 25
+    TabOrder = 16
+  end
+  object Edit18: TEdit
+    Left = 576
+    Top = 395
+    Width = 153
+    Height = 25
+    TabOrder = 17
+  end
+end

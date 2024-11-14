@@ -1,0 +1,81 @@
+﻿Nombre del Paquete, Destino, Duración (días), Costo (USD),Partida,Código,Plazas
+Aventura en la Selva, Amazonas,5,800,10-jun,A1B2,20
+Aventura en la Selva, Amazonas,5,800,18-jun,C3D4,20
+Aventura en la Selva, Amazonas,5,800,7-jul,E5F6,20
+Aventura en la Selva, Amazonas,5,800,15-jul,G7H8,20
+Explorando las Ruinas, Machu Picchu,4,1200,30-sep,I9J0,30
+Explorando las Ruinas, Machu Picchu,4,1200,6-oct,K1L2,30
+Explorando las Ruinas, Machu Picchu,4,1200,18-oct,M3N4,30
+Explorando las Ruinas, Machu Picchu,4,1200,6-nov,O5P6,30
+Playas del Caribe, Cancún,7,1500,9-ene,Q7R8,60
+Playas del Caribe, Cancún,7,1500,9-feb,S9T0,60
+Playas del Caribe, Cancún,7,1500,9-mar,U1V2,60
+Playas del Caribe, Cancún,7,1500,9-abr,W3X4,60
+Escapada a la Montaña, Montañas Rocosas,6,1800,6-ene,Y5Z6,15
+Escapada a la Montaña, Montañas Rocosas,6,1800,18-ene,A7B8,15
+Escapada a la Montaña, Montañas Rocosas,6,1800,6-feb,C9D0,15
+Escapada a la Montaña, Montañas Rocosas,6,1800,18-feb,E1F2,15
+Viaje Cultural por Europa, Varios países europeos,12,3000,5-jul,G3H4,80
+Viaje Cultural por Europa, Varios países europeos,12,3000,15-jul,I5J6,80
+Viaje Cultural por Europa, Varios países europeos,12,3000,6-ago,K7L8,80
+Viaje Cultural por Europa, Varios países europeos,12,3000,18-ago,M9N0,80
+Tour de Vinos, Valle de Napa,3,600,4-ene,O1P2,30
+Tour de Vinos, Valle de Napa,3,600,4-feb,Q3R4,30
+Tour de Vinos, Valle de Napa,3,600,4-mar,S5T6,30
+Tour de Vinos, Valle de Napa,3,600,4-abr,U7V8,30
+Safari en Ãfrica, Serengueti,8,2500,6-oct,W9X0,15
+Safari en Ãfrica, Serengueti,8,2500,6-nov,Y1Z2,15
+Safari en Ãfrica, Serengueti,8,2500,6-dic,A3B4,15
+Safari en Ãfrica, Serengueti,8,2500,6-ene,C5D6,15
+Descubriendo Asia, Tailandia,10,2000,12-abr,E7F8,10
+Descubriendo Asia, Tailandia,10,2000,12-may,G9H0,10
+Descubriendo Asia, Tailandia,10,2000,2-oct,I1J2,10
+Descubriendo Asia, Tailandia,10,2000,2-nov,K3L4,10
+Crucero por el Mediterráneo, Varios destinos mediterráneos,9,2800,9-may,M5N6,25
+Crucero por el Mediterráneo, Varios destinos mediterráneos,9,2800,9-jun,O7P8,25
+Crucero por el Mediterráneo, Varios destinos mediterráneos,9,2800,9-jul,Q9R0,25
+Crucero por el Mediterráneo, Varios destinos mediterráneos,9,2800,9-ago,S1T2,25
+Aventura en el Desierto, Sahara,7,2200,12-dic,U3V4,10
+Aventura en el Desierto, Sahara,7,2200,20-dic,W5X6,10
+Aventura en el Desierto, Sahara,7,2200,12-ene,Y7Z8,10
+Aventura en el Desierto, Sahara,7,2200,20-ene,A9B0,10
+Descanso en la Playa, Bali,5,1200,6-feb,C1D2,20
+Descanso en la Playa, Bali,5,1200,15-feb,E3F4,20
+Descanso en la Playa, Bali,5,1200,6-mar,G5H6,20
+Descanso en la Playa, Bali,5,1200,15-mar,I7J8,20
+Exploración Ártica, Groenlandia,10,3500,10-jun,K9L0,10
+Exploración Ártica, Groenlandia,10,3500,18-jun,M1N2,10
+Exploración Ártica, Groenlandia,10,3500,7-jul,O3P4,10
+Exploración Ártica, Groenlandia,10,3500,15-jul,Q5R6,10
+Viaje por la Ruta de la Seda, Uzbekistán,14,4000,30-sep,S7T8,5
+Viaje por la Ruta de la Seda, Uzbekistán,14,4000,6-oct,U9V0,5
+Viaje por la Ruta de la Seda, Uzbekistán,14,4000,18-oct,W1X2,5
+Viaje por la Ruta de la Seda, Uzbekistán,14,4000,6-nov,Y3Z4,5
+Experiencia Gastronóica, Italia,7,1800,9-ene,A5B6,60
+Experiencia Gastronóica, Italia,7,1800,9-feb,C7D8,60
+Experiencia Gastronóica, Italia,7,1800,9-mar,E9F0,60
+Experiencia Gastronóica, Italia,7,1800,9-abr,G1H2,60
+Vacaciones en la Ciudad, Nueva York,4,1000,6-ene,I3J4,50
+Vacaciones en la Ciudad, Nueva York,4,1000,18-ene,K5L6,50
+Vacaciones en la Ciudad, Nueva York,4,1000,6-feb,M7N8,50
+Vacaciones en la Ciudad, Nueva York,4,1000,18-feb,O9P0,50
+Aventura en la Nieve, Alpes Suizos,6,2000,5-jul,Q1R2,30
+Aventura en la Nieve, Alpes Suizos,6,2000,15-jul,S3T4,30
+Aventura en la Nieve, Alpes Suizos,6,2000,6-ago,U5V6,30
+Aventura en la Nieve, Alpes Suizos,6,2000,18-ago,W7X8,30
+Tour Histórico, Roma,5,1500,4-ene,Y9Z0,40
+Tour Histórico, Roma,5,1500,4-feb,A1B2,40
+Tour Histórico, Roma,5,1500,4-mar,C3D4,40
+Tour Histórico, Roma,5,1500,4-abr,E5F6,40
+Relax en las Islas Maldivas, Maldivas,7,3000,6-oct,G7H8,30
+Relax en las Islas Maldivas, Maldivas,7,3000,6-nov,I9J0,30
+Relax en las Islas Maldivas, Maldivas,7,3000,6-dic,K1L2,30
+Relax en las Islas Maldivas, Maldivas,7,3000,6-ene,M3N4,30
+Descubrimiento Australiano, Australia,15,4000,12-abr,O5P6,15
+Descubrimiento Australiano, Australia,15,4000,12-may,Q7R8,15
+Descubrimiento Australiano, Australia,15,4000,2-oct,S9T0,15
+Descubrimiento Australiano, Australia,15,4000,2-nov,U1V2,15
+Escapada a la Naturaleza, Costa Rica,8,1800,9-may,W3X4,20
+Escapada a la Naturaleza, Costa Rica,8,1800,9-jun,Y5Z6,20
+Escapada a la Naturaleza, Costa Rica,8,1800,9-jul,A7B8,20
+Escapada a la Naturaleza, Costa Rica,8,1800,9-ago,C9D0,20

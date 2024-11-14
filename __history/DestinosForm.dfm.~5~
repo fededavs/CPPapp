@@ -1,0 +1,43 @@
+object Destinos: TDestinos
+  Left = 0
+  Top = 0
+  Caption = 'Destinos'
+  ClientHeight = 619
+  ClientWidth = 1028
+  Color = clActiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Label1: TLabel
+    Left = 384
+    Top = 50
+    Width = 226
+    Height = 37
+    Caption = 'Paquetes turisticos:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object StringGrid1: TStringGrid
+    Left = 24
+    Top = 112
+    Width = 977
+    Height = 489
+    TabOrder = 0
+  end
+  object BotonVolver: TButton
+    Left = 56
+    Top = 32
+    Width = 81
+    Height = 33
+    Caption = 'Volver'
+    TabOrder = 1
+    OnClick = BotonVolverClick
+  end
+end

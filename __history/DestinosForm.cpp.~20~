@@ -1,0 +1,55 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#pragma hdrstop
+#include "DestinosForm.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TDestinos *Destinos;
+//---------------------------------------------------------------------------
+__fastcall TDestinos::TDestinos(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TDestinos::BotonVolverClick(TObject *Sender)
+{
+	Form1->Show();
+    Destinos->Hide();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TDestinos::DestinosGridClick(TObject *Sender)
+{
+	DestinosGrid->RowCount = listaDestinos.getTotal();
+	DestinosGrid->ColCount = 7;
+
+    DestinosGrid->Cells[0][0] = "Nombre Paquete";
+	DestinosGrid->Cells[1][0] = "Destino";
+	DestinosGrid->Cells[2][0] = "Duración (Dias)";
+	DestinosGrid->Cells[3][0] = "Costo (USD)";
+	DestinosGrid->Cells[4][0] = "Partida";
+	DestinosGrid->Cells[5][0] = "Código";
+	DestinosGrid->Cells[6][0] = "Plazas";
+
+	int rows = 1;
+
+	while(actual != null)
+	{
+		DestinosGrid->RowCount = rows + 1;
+
+        DestinosGrid->Cells[0][fila] = actual->nombrePaquete;
+        DestinosGrid->Cells[1][fila] = actual->destino;
+        DestinosGrid->Cells[2][fila] = IntToStr(actual->duracionDias);
+        DestinosGrid->Cells[3][fila] = FloatToStr(actual->costoUSD);
+        DestinosGrid->Cells[4][fila] = actual->partida;
+        DestinosGrid->Cells[5][fila] = actual->codigo;
+		DestinosGrid->Cells[6][fila] = IntToStr(actual->plazas);
+
+		//siguiente destino en la lista
+		actual = actual->siguiente;
+        rows++;
+	}
+}
+//---------------------------------------------------------------------------
+

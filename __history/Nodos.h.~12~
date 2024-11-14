@@ -1,0 +1,44 @@
+#ifndef NODO_H
+#define NODO_H
+
+struct Cliente
+{
+	int numero;
+	AnsiString genero;
+	AnsiString nombre, apellido;
+	char inicialMedia;
+	AnsiString direccion;
+	AnsiString ciudad, estado;
+	int zipCode;
+	AnsiString email;
+	int numeroTelefono;
+	AnsiString cumpleaños;
+	short edad;
+	AnsiString CCtype;
+	short CCnumber;
+	AnsiString CVV2;
+	int CCexpires;
+	AnsiString codigo;
+	short plazas;
+	Cliente* siguiente;
+
+	Cliente();
+    Cliente(Cliente &);
+};
+
+struct Destino
+{
+	AnsiString nombrePaquete;
+	AnsiString destino;
+	int duracionDias;
+	float costoUSD;
+	AnsiString partida;
+	AnsiString codigo;
+	short plazas;
+	Destino* siguiente;
+
+	Destino();
+    Destino(Destino &);
+};
+
+#endif

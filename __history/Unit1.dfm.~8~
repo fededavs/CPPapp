@@ -1,0 +1,56 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'APP'
+  ClientHeight = 556
+  ClientWidth = 908
+  Color = clGradientActiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = MainMenu1
+  TextHeight = 15
+  object Label1: TLabel
+    Left = 280
+    Top = 168
+    Width = 355
+    Height = 65
+    Caption = 'Agencia de viajes'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -48
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
+  object MainMenu1: TMainMenu
+    Left = 32
+    Top = 40
+    object Ingresar1: TMenuItem
+      Caption = 'Ingresar'
+      object Clientes1: TMenuItem
+        Caption = 'Cliente'
+      end
+    end
+    object Opciones1: TMenuItem
+      Caption = 'Opciones'
+      object Editar1: TMenuItem
+        Caption = 'Editar'
+      end
+      object Eliminar1: TMenuItem
+        Caption = 'Eliminar'
+      end
+    end
+    object Ver1: TMenuItem
+      Caption = 'Ver'
+      object Destinos1: TMenuItem
+        Caption = 'Destinos'
+      end
+      object Destinos2: TMenuItem
+        Caption = 'Clientes'
+      end
+    end
+  end
+end

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/24 21:23:16.000.655,=D:\Facultad\EDA2\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/24 21:23:17.000.138,=D:\Facultad\EDA2\Unit1.cpp</Transaction>
+    <Transaction>2024/10/24 21:23:35.000.359,D:\Facultad\EDA2\Project1PCH1.h=D:\Facultad\EDA2\Proyecto_EDA2\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/24 21:23:35.000.377,D:\Facultad\EDA2\Unit1.cpp=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.cpp</Transaction>
+    <Transaction>2024/10/24 21:23:35.000.377,D:\Facultad\EDA2\Unit1.dfm=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.dfm</Transaction>
+    <Transaction>2024/10/24 21:23:35.000.396,D:\Facultad\EDA2\Project1.cbproj=D:\Facultad\EDA2\Proyecto_EDA2\Project1.cbproj</Transaction>
+    <Transaction>2024/10/24 21:23:35.000.377,D:\Facultad\EDA2\Unit1.h=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.h</Transaction>
+    <Transaction>2024/10/24 21:23:55.000.565,D:\Facultad\EDA2\Proyecto_EDA2\Project1PCH1.h=D:\Facultad\EDA2\Proyecto_EDA2\ProyectoPCH1.h</Transaction>
+    <Transaction>2024/10/24 21:23:55.000.575,D:\Facultad\EDA2\Proyecto_EDA2\Project1.cbproj=D:\Facultad\EDA2\Proyecto_EDA2\Proyecto.cbproj</Transaction>
+    <Transaction>2024/10/24 22:52:39.000.467,=D:\Facultad\EDA2\Proyecto_EDA2\File1.h</Transaction>
+    <Transaction>2024/10/24 22:53:39.000.361,D:\Facultad\EDA2\Proyecto_EDA2\File1.h=D:\Facultad\EDA2\Proyecto_EDA2\Nodos1.h</Transaction>
+    <Transaction>2024/10/24 22:53:48.000.052,D:\Facultad\EDA2\Proyecto_EDA2\Nodos1.h=D:\Facultad\EDA2\Proyecto_EDA2\Nodos.h</Transaction>
+    <Transaction>2024/10/25 11:47:33.000.654,=D:\Facultad\EDA2\Proyecto_EDA2\File1.cpp</Transaction>
+    <Transaction>2024/10/25 11:47:43.000.857,D:\Facultad\EDA2\Proyecto_EDA2\Nodos.cpp=D:\Facultad\EDA2\Proyecto_EDA2\File1.cpp</Transaction>
+    <Transaction>2024/10/25 12:07:08.000.974,=D:\Facultad\EDA2\Proyecto_EDA2\File1.h</Transaction>
+    <Transaction>2024/10/25 12:07:22.000.227,D:\Facultad\EDA2\Proyecto_EDA2\Listas.h=D:\Facultad\EDA2\Proyecto_EDA2\File1.h</Transaction>
+    <Transaction>2024/10/25 12:18:58.000.402,=D:\Facultad\EDA2\Proyecto_EDA2\File1.cpp</Transaction>
+    <Transaction>2024/10/25 12:19:09.000.668,D:\Facultad\EDA2\Proyecto_EDA2\Listas.cpp=D:\Facultad\EDA2\Proyecto_EDA2\File1.cpp</Transaction>
+    <Transaction>2024/10/25 18:53:26.000.148,D:\Facultad\EDA2\Proyecto_EDA2\principal.cpp=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.cpp</Transaction>
+    <Transaction>2024/10/25 18:53:26.000.149,D:\Facultad\EDA2\Proyecto_EDA2\principal.h=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.h</Transaction>
+    <Transaction>2024/10/25 18:53:26.000.149,D:\Facultad\EDA2\Proyecto_EDA2\principal.dfm=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.dfm</Transaction>
+    <Transaction>2024/10/25 21:16:51.000.864,=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.cpp</Transaction>
+    <Transaction>2024/10/25 21:18:48.000.787,D:\Facultad\EDA2\Proyecto_EDA2\AggClientes.dfm=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.dfm</Transaction>
+    <Transaction>2024/10/25 21:18:48.000.787,D:\Facultad\EDA2\Proyecto_EDA2\AggClientes.cpp=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.cpp</Transaction>
+    <Transaction>2024/10/25 21:18:48.000.787,D:\Facultad\EDA2\Proyecto_EDA2\AggClientes.h=D:\Facultad\EDA2\Proyecto_EDA2\Unit1.h</Transaction>
+    <Transaction>2024/10/25 23:03:21.000.450,D:\Facultad\EDA2\Proyecto_EDA2\AggClientes.cpp=</Transaction>
+    <Transaction>2024/10/26 17:08:52.000.195,=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp</Transaction>
+    <Transaction>2024/10/26 17:09:14.000.140,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.h=D:\Facultad\EDA2\Proyecto_EDA2\RegistroClientes.h</Transaction>
+    <Transaction>2024/10/26 17:09:14.000.140,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.dfm=D:\Facultad\EDA2\Proyecto_EDA2\RegistroClientes.dfm</Transaction>
+    <Transaction>2024/10/26 17:09:14.000.140,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp=D:\Facultad\EDA2\Proyecto_EDA2\RegistroClientes.cpp</Transaction>
+    <Transaction>2024/10/26 19:22:05.000.102,=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp</Transaction>
+    <Transaction>2024/10/26 19:22:30.000.980,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp=D:\Facultad\EDA2\Proyecto_EDA2\EditarCliente.cpp</Transaction>
+    <Transaction>2024/10/26 19:22:30.000.980,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.dfm=D:\Facultad\EDA2\Proyecto_EDA2\EditarCliente.dfm</Transaction>
+    <Transaction>2024/10/26 19:22:30.000.980,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.h=D:\Facultad\EDA2\Proyecto_EDA2\EditarCliente.h</Transaction>
+    <Transaction>2024/11/12 14:11:22.000.856,=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp</Transaction>
+    <Transaction>2024/11/12 14:11:42.000.433,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.dfm=D:\Facultad\EDA2\Proyecto_EDA2\ClientesForm.dfm</Transaction>
+    <Transaction>2024/11/12 14:11:42.000.433,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp=D:\Facultad\EDA2\Proyecto_EDA2\ClientesForm.cpp</Transaction>
+    <Transaction>2024/11/12 14:11:42.000.433,D:\Facultad\EDA2\Proyecto_EDA2\Unit2.h=D:\Facultad\EDA2\Proyecto_EDA2\ClientesForm.h</Transaction>
+    <Transaction>2024/11/12 20:18:56.000.833,=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp</Transaction>
+    <Transaction>2024/11/12 20:19:27.000.396,D:\Facultad\EDA2\Proyecto_EDA2\Destinos.h=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.h</Transaction>
+    <Transaction>2024/11/12 20:19:27.000.396,D:\Facultad\EDA2\Proyecto_EDA2\Destinos.cpp=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.cpp</Transaction>
+    <Transaction>2024/11/12 20:19:27.000.396,D:\Facultad\EDA2\Proyecto_EDA2\Destinos.dfm=D:\Facultad\EDA2\Proyecto_EDA2\Unit2.dfm</Transaction>
+    <Transaction>2024/11/12 20:20:16.000.028,D:\Facultad\EDA2\Proyecto_EDA2\DestinosForm.dfm=D:\Facultad\EDA2\Proyecto_EDA2\Destinos.dfm</Transaction>
+    <Transaction>2024/11/12 20:20:16.000.028,D:\Facultad\EDA2\Proyecto_EDA2\DestinosForm.cpp=D:\Facultad\EDA2\Proyecto_EDA2\Destinos.cpp</Transaction>
+    <Transaction>2024/11/12 20:20:16.000.028,D:\Facultad\EDA2\Proyecto_EDA2\DestinosForm.h=D:\Facultad\EDA2\Proyecto_EDA2\Destinos.h</Transaction>
+  </Transactions>
+</BorlandProject>
